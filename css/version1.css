@@ -12,6 +12,9 @@ body{
     min-height: 100vh;
     background: #fff;
 }
+.container{
+    padding: 20px;
+}
 a{
     position: relative;
     display: inline-block;
